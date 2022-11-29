@@ -4,11 +4,11 @@
 <div align="center">
   <a href="https://github.com/breno-rossi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=breno-rossi&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&env=PAT_1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-rossi&langs_count=7&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-rossi&langs_count=7&locale=pt-br&env=PAT_1"/>
 </div>
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg&env=PAT_1">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 

@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/breno-rossi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=breno-rossi&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=breno-rossi&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&env=PAT_1"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-rossi&langs_count=7&locale=pt-br"/>
 </div>
  

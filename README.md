@@ -1,5 +1,6 @@
 ### Olá, Me chamo Breno👋
-##
+### 🧑‍💻 Atualmente estudo Engenharia de Computação
+### 📫 Entre em contato (https://linktr.ee/brenorossi "aqui")
 
 <div align="center">
   <a href="https://github.com/breno-rossi">

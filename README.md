@@ -29,8 +29,8 @@
 </strong>
 <hr>
           
-<p align="center"><a href="https://www.brenorossi.tech/8"><img src="https://img.shields.io/badge/POrtfolio-666?style=for-the-badge&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/brenorossiduarte/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:brenorossiduarte@gmail.comsubject=Olá%20Breno%20Rossi"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a> 
+<p align="center"><a href="https://www.brenorossi.tech"><img src="https://img.shields.io/badge/POrtfolio-666?style=for-the-badge&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/brenorossiduarte/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:brenorossiduarte@gmail.comsubject=Olá%20Breno%20Rossi"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a> 
 </p>
 
 
-<a href="mailto:brenorossiduarte@gmail.comsubject=Olá%20Breno%20Rossi"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a> 
+

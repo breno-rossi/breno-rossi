@@ -2,7 +2,7 @@
 - 📚 Graduando em Engenharia de Computação
 - 🌱 Atualmente estudando Git
 - 😄 Pronomes: Ele/Dele
-- ⚡ Hobies: Curto jogar Videogame e ler 
+- ⚡ Hobies: Curto jogar Videogame, ler e escutar Vinyl 
 - 💡Sempre indo atras de novas coisas para aprender 
 
 

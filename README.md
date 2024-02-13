@@ -6,14 +6,7 @@
 - 💡Sempre indo atras de novas coisas para aprender 
 
 
-<br />
-<a href="https://github.com/breno-rossi/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=breno-rossi&theme=algolia&bg_color=000000&show_icons=true" />
-</a>
-<a href="https://github.com/breno-rossi/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=breno-rossi&layout=donut&langs_count=8&card_width=320&theme=algolia&bg_color=000000" />
-</a>
-<br />
+
 
 ### 👨🏻‍💻Linguagens e Ferramentas: <br />
 <p float="left">
@@ -25,6 +18,15 @@
   <img align="center" alt="Breno-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Breno-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </p>
+
+<br />
+<a href="https://github.com/breno-rossi/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=breno-rossi&theme=algolia&bg_color=000000&show_icons=true" />
+</a>
+<a href="https://github.com/breno-rossi/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=breno-rossi&layout=donut&langs_count=8&card_width=320&theme=algolia&bg_color=000000" />
+</a>
+<br />
 
 <hr> 
 

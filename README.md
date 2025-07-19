@@ -1,7 +1,5 @@
   ## Olá, Me chamo Breno!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 - 📚 Graduando em Engenharia de Computação
-- 🌱 Atualmente estudando Git
-- 😄 Pronomes: Ele/Dele
 - ⚡ Hobies: Curto jogar Videogame, ler e escutar Vinyl 
 - 💡Sempre indo atras de novas coisas para aprender 
 

@@ -31,6 +31,7 @@
 
 <p align="center">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=breno-rossi&theme=algolia&bg_color=000000&show_icons=true" />
+  
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=breno-rossi&layout=donut&langs_count=8&card_width=320&theme=algolia&bg_color=000000" />
 </p>
 
